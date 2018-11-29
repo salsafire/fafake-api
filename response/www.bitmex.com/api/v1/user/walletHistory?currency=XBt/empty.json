@@ -1,0 +1,15 @@
+{
+  "statusCode": 200,
+  "body": [],
+  "headers": {
+    "date": "Thu, 04 Oct 2018 15:04:37 GMT",
+    "content-type": "application/json; charset=utf-8",
+    "content-length": "27061",
+    "connection": "close",
+    "x-ratelimit-limit": "300",
+    "x-ratelimit-remaining": "296",
+    "x-ratelimit-reset": "1538665478",
+    "x-powered-by": "Profit",
+    "strict-transport-security": "max-age=31536000; includeSubDomains"
+  }
+}
